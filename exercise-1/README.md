@@ -10,8 +10,8 @@ The purpose of this exercise is to practice the steps you'll need to use in futu
 6. Using your terminal, add and commit the changes you've made to your repository
 7. Push changes up to GitHub
 
-
+<ol>
 1.bagels
 2.coffee
 3.the blood of my enemies
-    
+</ol>    
